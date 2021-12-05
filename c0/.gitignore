@@ -1,0 +1,6 @@
+a.out
+.idea
+megaphone
+*.o
+*~
+.DS_Store

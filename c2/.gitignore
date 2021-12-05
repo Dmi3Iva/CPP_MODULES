@@ -1,0 +1,7 @@
+*.o
+.idea
+.vscode
+*~
+a.out
+fixed
+bsp
